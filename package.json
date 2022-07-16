@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "@types/aws-sdk": "^2.7.0",
     "@types/bcrypt": "^5.0.0",
